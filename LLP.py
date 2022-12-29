@@ -100,7 +100,7 @@ if st.button('Predict Price'):
     ### Deploying the animation
     
 
-st.subheader("Created By Yash Agrawal")
+st.subheader("Created By Yash.N.Agrawal")
  
    
     
