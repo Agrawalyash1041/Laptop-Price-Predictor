@@ -35,4 +35,4 @@ Link :- https://github.com/Agrawalyash1041/Laptop-Price-Predictor/archive/refs/h
 
 step2 :- Unzip the folder 
 
-step3 :- Double Click on the Run App Folder
+step3 :- Double Click on the 'Run App' folder
