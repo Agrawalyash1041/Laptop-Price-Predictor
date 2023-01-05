@@ -6,10 +6,15 @@
 
 # Outline 
 ---
+* [Website Link]https://github.com/Agrawalyash1041/Laptop-Price-Predictor/edit/main/README.md#website-link
 * [Motivation](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/edit/main/README.md#motivation)
 * [Insiration](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/edit/main/README.md#inspiration)
 * [Prerequisites](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/edit/main/README.md#prerequisites)
 * [How to Run](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/edit/main/README.md#how-to-run-the-web))
+
+# Website Link 
+This app has been sucessfully deployed on the web using the streamlit Cloud platform
+Website Link :- https://agrawalyash1041-laptop-price-predictor-llp-fq32wf.streamlit.app/
 
 # Motivation 
 ---
@@ -28,7 +33,7 @@ I saw this video on youtube from campusX channel and was inspired to try it ,so 
 2) Python being installed on your pc (pip install python) 
 3) Streamlit. To install type this in Command Prompt (python -m pip install streamlit)
 
-# How to Run the Web 
+# How to Run on the Local Host
 ---
 step1 :- Download this Project with full zip 
 
@@ -37,3 +42,5 @@ Link :- https://github.com/Agrawalyash1041/Laptop-Price-Predictor/archive/refs/h
 step2 :- Unzip the folder 
 
 step3 :- Double Click on the 'Run App' folder
+
+
