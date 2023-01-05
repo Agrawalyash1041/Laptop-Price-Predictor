@@ -6,11 +6,10 @@
 
 # Outline 
 ---
-* [Website Link](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/main/README.md#Website-Link)
-* [Motivation](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/main/README.md#motivation)
-* [Insiration](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/main/README.md#inspiration)
-* [Prerequisites](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/main/README.md#prerequisites)
-* [How to Run](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/main/README.md#how-to-run-on-the-Local-Host)
+* [Website Link](https://github.com/Agrawalyash1041/Laptop-Price-Predictor#website-link)
+* [Motivation](https://github.com/Agrawalyash1041/Laptop-Price-Predictor#motivation)
+* [Prerequisites](https://github.com/Agrawalyash1041/Laptop-Price-Predictor#prerequisites)
+* [How to Run](https://github.com/Agrawalyash1041/Laptop-Price-Predictor#how-to-run-on-the-local-host)
 
 # Website Link 
 This app has been sucessfully deployed on the web using the streamlit Cloud platform
@@ -19,13 +18,6 @@ Website Link :- https://agrawalyash1041-laptop-price-predictor-llp-fq32wf.stream
 # Motivation 
 ---
 The idea of this project was not to create some highly accurate laptop price predictor with exceptional cognitive skills but just to utilise and test my Python skills.This is one of my very first projects on Machine Learning, created when I just stepped into the world of Machine Learning and I thought to create a Laptop Price Prediction Model just to make use of my newly acquired knowledge
-
-# Inspiration
----
-I saw this video on youtube from campusX channel and was inspired to try it ,so i searched for datasets on kaggle and found a data which seemed good to work on . Then to use streamlit i went through couple of videos on youtube and read the entire streamlit documentation.
-
-1) campusX video Link :- https://www.youtube.com/watch?v=BgpM2IiCH6k&ab_channel=CampusX
-2) streamlit documentation :- https://docs.streamlit.io/library/cheatsheet
 
 # Prerequisites
 ---
