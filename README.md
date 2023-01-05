@@ -6,11 +6,11 @@
 
 # Outline 
 ---
-* [Website Link](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/edit/main/README.md#Website-Link))
-* [Motivation](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/edit/main/README.md#motivation)
-* [Insiration](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/edit/main/README.md#inspiration)
-* [Prerequisites](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/edit/main/README.md#prerequisites)
-* [How to Run](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/edit/main/README.md#how-to-run-on-the-Local-Host))
+* [Website Link](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/main/README.md#Website-Link)
+* [Motivation](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/main/README.md#motivation)
+* [Insiration](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/main/README.md#inspiration)
+* [Prerequisites](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/main/README.md#prerequisites)
+* [How to Run](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/main/README.md#how-to-run-on-the-Local-Host)
 
 # Website Link 
 This app has been sucessfully deployed on the web using the streamlit Cloud platform
