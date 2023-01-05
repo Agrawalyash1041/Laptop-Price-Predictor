@@ -1,2 +1,2 @@
- sklearn
- streamlit
+numpy==1.21.5
+streamlit==1.16.0
