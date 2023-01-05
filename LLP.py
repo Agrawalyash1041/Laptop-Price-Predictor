@@ -3,6 +3,8 @@
 import streamlit as st
 import pickle
 import numpy as np
+import sklearn
+import scikit-learn
 
 ### Importing the data and model using pickle
 
