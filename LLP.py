@@ -103,6 +103,9 @@ if st.button('Predict Price'):
     
 
 st.subheader("Created By Yash.N.Agrawal")
+
+
+st.text("If you want to change the Configuration please Reload the page for better results")
  
    
     
