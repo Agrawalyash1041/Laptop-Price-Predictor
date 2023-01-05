@@ -6,7 +6,7 @@
 
 # Outline 
 ---
-* [Website Link]https://github.com/Agrawalyash1041/Laptop-Price-Predictor/edit/main/README.md#website-link
+* [Website Link](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/edit/main/README.md#website-link)
 * [Motivation](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/edit/main/README.md#motivation)
 * [Insiration](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/edit/main/README.md#inspiration)
 * [Prerequisites](https://github.com/Agrawalyash1041/Laptop-Price-Predictor/edit/main/README.md#prerequisites)
