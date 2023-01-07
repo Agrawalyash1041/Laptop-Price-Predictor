@@ -1,6 +1,7 @@
 # Laptop-Price-Predictor
 
-[Laptop Price Predictor Demo.webm](https://user-images.githubusercontent.com/111517167/209972518-5d537ca1-7057-4cd1-80d9-eba59646391f.webm)
+
+[Laptop_Price_Predictor Demo.webm](https://user-images.githubusercontent.com/111517167/211146932-395b2828-1919-4f40-8e86-68c3cd735ed4.webm)
 
 
 
