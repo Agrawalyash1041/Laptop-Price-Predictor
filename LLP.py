@@ -3,8 +3,8 @@
 import streamlit as st
 import pickle
 import numpy as np
-import sklearn
-
+from streamlit_lottie import st_lottie
+import requests
 
 ### Importing the data and model using pickle
 
@@ -20,11 +20,60 @@ st.set_page_config(page_title = "Lapptop Price Predictor",
                    page_icon = '💻',
                    layout = 'wide')
 
+### Deploying the Animation
+
+## Creating a user defined function
+
+def load_lottieurl(url):
+    r = requests.get(url)
+    if r.status_code != 200:
+        return None
+    return r.json()
+
+
+## Loading assets
+lottie_laptop = load_lottieurl("https://assets7.lottiefiles.com/packages/lf20_efx3aac9.json")
+
+
+
+
+
 ### Title 
 
-st.title('Laptop Price Preictor')
+### Deploying animation
+
+with st.container():
+    left_column, right_column = st.columns(2)
+    with right_column:
+        st_lottie(lottie_laptop, height=400, key="coding")
+        with left_column:
+            st.write("")
+            st.write("")
+            st.write("")
+            st.write("")
+            st.write("")
+            st.write("")
+            st.write("")
+            st.write("")
+            st.write("")
+            st.write("")
+            st.write("")
+            st.write("")
+            
+            
+            
+            
+            st.title(' Laptop Price Preictor')
+    
+        
+        
+        
+        
+        
+st.write("---")   
 st.subheader('Hello User , Welcome to this Laptop Price Predicting Interface')
 st.text("This Prediction model has a accuracy of 82% only")
+
 
 
 ### Company
@@ -50,7 +99,7 @@ GPU = st.selectbox('GPU Brand (Please Select the Brand of GPU)',dataset['Gpu_Bra
 
 ### Ram 
 
-Ram = st.selectbox('Ram(Please Select the Ram)',[ 8, 16,  4,  2, 12,  6, 32, 24, 64])
+Ram = st.selectbox('Ram(Please Select the Ram)',[2,4,6,8,12,16,24,32,64])
 
 ### HDD 
 
@@ -102,10 +151,35 @@ if st.button('Predict Price'):
     ### Deploying the animation
     
 
-st.subheader("Created By Yash.N.Agrawal")
+st.text("If you want to change the Configuragtion Please Reload the website for better Results")
+st.write("")
+st.write("")
+st.write("")
+
+### Contact Info 
+
+st.subheader("By Yash.N.Agrawal")
+st.write("")
+st.write("")
+st.write("")
+
+st.subheader("Feel free to contact the Devloper 😉")
+st.write("")
+st.write("")
+
+st.markdown("[🎉 Instagram ](https://www.instagram.com/agrawalyash1041/)")
+st.write("")
+st.markdown("[ 📧 Gmail ](    https://mail.google.com/mail/?view=cm&fs=1&to=yashagrawal1041@gmail.com&su=SUBJECT&body=BODY)")
 
 
-st.text("If you want to change the Configuration please Reload the page for better results")
+
+   
+    
+
+
+
+
+
  
    
     
