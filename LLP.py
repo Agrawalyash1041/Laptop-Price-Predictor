@@ -63,7 +63,7 @@ with st.container():
             
             
             
-            st.title(' Laptop Price Preictor')
+            st.title(' Laptop Price Predictor')
     
         
         
