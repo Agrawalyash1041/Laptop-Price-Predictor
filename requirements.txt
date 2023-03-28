@@ -1,5 +1,5 @@
 numpy
-scikit-learn ==1.2.2
+scikit-learn ==1.1.1
 requests
 streamlit==1.16.0
 streamlit_lottie
