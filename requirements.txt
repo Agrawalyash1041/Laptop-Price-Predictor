@@ -1,7 +1,6 @@
 numpy
 scikit-learn
-requests
 streamlit
-streamlit_lottie==0.0.3
+streamlit_lottie 
 sklearn
 
