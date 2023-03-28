@@ -4,4 +4,4 @@ requests
 streamlit
 streamlit_lottie==0.0.3
 sklearn
-pip
+
